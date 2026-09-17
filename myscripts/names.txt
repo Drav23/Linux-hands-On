@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#ecxperiment for is can we run 2nd script through 1st script
+
+for p in {1..5}
+do
+     echo "$p"
+done
+
+for i in akshay neel nithin john lorence indra
+do 
+     echo "$i"
+done
